@@ -79,14 +79,14 @@
           <div class="bg-white border rounded-lg p-5 shadow-sm">
               <div class="space-y-1">
               <p><strong>Bank:</strong> BCA</p>
-              <p><strong>Atas Nama:</strong> Florist by Amalia</p>
+              <p><strong>Atas Nama:</strong> Dwi Rachmawati</p>
               </div>
 
               <!-- Nomor Rekening + Tombol Salin -->
               <div class="flex items-center justify-between bg-pink-50 border border-pink-200 rounded-lg px-4 py-3 mt-3">
               <div>
                   <p class="font-semibold text-gray-700 text-sm">No. Rekening:</p>
-                  <p id="bankNumber" class="text-lg font-bold text-gray-900 tracking-wide">1234567890</p>
+                  <p id="bankNumber" class="text-lg font-bold text-gray-900 tracking-wide">0461890139</p>
               </div>
               <button id="copyBtn"
                   class="bg-pink-600 hover:bg-pink-700 text-white text-sm font-semibold px-4 py-2 rounded-md shadow transition">
